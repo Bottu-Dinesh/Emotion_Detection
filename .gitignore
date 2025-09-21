@@ -1,0 +1,14 @@
+# Ignore database and model
+emotions.db
+model.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
